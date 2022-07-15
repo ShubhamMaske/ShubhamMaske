@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShubhamMaske
 - 🌱 Interested Learning New Technology.
-- 💞️ C/C++ Programmer
+- 💞️ C++ | JAVA | SQL Programmer
 - 📫
 
 <!---
