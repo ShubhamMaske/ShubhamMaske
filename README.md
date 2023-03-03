@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShubhamMaske
 - 🌱 Interested Learning New Technology.
-- 💞️ C++ | JAVA | SQL Programmer
+- 💞️  Core JAVA| HTML | CSS | JAVASCRIPT | ExpressJS | SQL Programmer
 - 📫 Learning Web technologies
 
 <!---
