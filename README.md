@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShubhamMaske
 - 🌱 Interested in Learning New Technology.
-- 💞️  Node.js | HTML | CSS | JAVASCRIPT | TypeScript | Nest.js | Database
-- 📫 Learning Web technologies
+- 💞️ Node.js | HTML | CSS | JAVASCRIPT | TypeScript | Nest.js | Database
+- 📫 Building Projects
 - ❤️ Backend Developer
 <!---
 ShubhamMaske/ShubhamMaske is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
